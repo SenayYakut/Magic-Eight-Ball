@@ -8,6 +8,7 @@ The user will be able to input a question, then our program will output a random
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Magic-Eight-Ball.git
 ```
 
 ## Usage
