@@ -13,7 +13,6 @@ https://github.com/SenayYakut/Magic-Eight-Ball.git
 
 ## Usage
 
-[Go to]
 
 
 
